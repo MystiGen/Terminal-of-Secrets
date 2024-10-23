@@ -1,3 +1,4 @@
+<img align="center" alt="Zeno" src="https://i.imgur.com/GqNpAgt.jpeg" height = "100%" width = "100%"/>
 # TECHE: A Decentralized AI Oracle
 
 ## Overview
